@@ -2,6 +2,6 @@
 - 🎓 B.S. in Viticulture and Enology at UC Davis.
 - 🎓 M.S. in Business Analytics at Questrom School of Business, Boston University.
 - 💻 I’m currently studying M.S. in Data Science Program at Columbia University.
-- 🤔 I’m actively seeking Full-time jobs as a data scientist.
+- 🤔 I’m actively seeking 2024 Full-time jobs as a data scientist.
 - 💬 More information about me: https://www.linkedin.com/in/jiqi9720
 - 📫 How to reach me: ji.qi@columbia.edu
